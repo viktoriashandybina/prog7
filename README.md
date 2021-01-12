@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+# Шандыбина Виктория
+# Программирование 7 семестр
 
-You can use the [editor on GitHub](https://github.com/viktoriashandybina/prog7/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Лабораторные работы
+[Лабораторная работа №1][1]<br>
+[Лабораторная работа №2][2]<br>
+[Лабораторная работа №3][3]<br>
+[Лабораторная работа №4][4]<br>
+[Лабораторная работа №5][5]<br>
+[Лабораторная работа №6][6]<br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[1]: https://github.com/viktoriashandybina/prog7/blob/main/LR/1.py
+[2]: 
+[3]: 
+[4]: 
+[5]: https://github.com/viktoriashandybina/prog7/tree/main/LR/templates
+[6]:  
 
-### Markdown
+*****
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Инвариантные задания
 
-```markdown
-Syntax highlighted code block
+[ИСР №1][7]<br>
+[ИСР №2][8]<br>
+[ИСР №3][9]<br>
+[ИСР №4][10]<br>
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+[7]: 
+[8]: 
+[9]: 
+[10]: 
 
-1. Numbered
-2. List
+*****
 
-**Bold** and _Italic_ and `Code` text
+## Вариативные задания
 
-[Link](url) and ![Image](src)
-```
+[ВСР №1.2][11]<br>
+[ВСР №2.1][12]<br>
+[ВСР №3][13]<br>
+[ВСР №4][14]<br>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/viktoriashandybina/prog7/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[11]: 
+[12]: https://github.com/viktoriashandybina/prog7/blob/main/VSR/2_1.py
+[13]: 
+[14]: 
