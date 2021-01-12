@@ -51,7 +51,7 @@ def add_message():
     data = {"username": username,
             "message": msg}
     print(data)
-    with open("data_file.jsonl", "a") as read_file:
+    with open("data_file.json", "a") as read_file:
         json.dump(data, read_file)
 
     return 'adding message'
