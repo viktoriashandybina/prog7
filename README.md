@@ -15,7 +15,7 @@
 
 [1]: https://github.com/viktoriashandybina/prog7/blob/main/LR/1.py
 [2]: https://github.com/viktoriashandybina/prog7/blob/main/LR/2.py
-[3]: 
+[3]: https://github.com/viktoriashandybina/prog7/blob/main/LR/lektor.pdf
 [4]: 
 [5]: https://github.com/viktoriashandybina/prog7/tree/main/LR/templates
 [6]:  
