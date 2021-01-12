@@ -30,7 +30,7 @@
 [ИСР №4][10] <br>
 
 
-[7]: 
+[7]: https://github.com/viktoriashandybina/prog7/blob/main/ISR/1.py
 [8]: 
 [9]: 
 [10]: 
