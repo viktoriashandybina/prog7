@@ -1,7 +1,7 @@
 # Шандыбина Виктория
 # Программирование 7 семестр
 
-[Выступление Redis][15]<br>
+[Выступление Redis. Презентация+скринкаст][15]<br>
 
 [15]: https://drive.google.com/drive/folders/1cDTa4f-KNhu5pV0OfshKa8m520BNdLLH?usp=sharing
 
