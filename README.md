@@ -22,27 +22,6 @@
 
 *****
 
-## Инвариантные задания
-
-[ИСР №1.1][7] <br>
-[ИСР №1.2][16]<br> 
-[ИСР №2.1][8] <br>
-[ИСР №2.2][17] <br>
-[ИСР №2.3][18] <br>
-[ИСР №3][9] <br>
-[ИСР №4][10] <br>
-
-
-[7]: https://github.com/viktoriashandybina/prog7/blob/main/ISR/1.py
-[16]: https://github.com/viktoriashandybina/prog7/blob/main/ISR/1_2.py
-[8]: https://github.com/viktoriashandybina/prog7/blob/main/ISR/2_1.py
-[17]: https://github.com/viktoriashandybina/prog7/blob/main/ISR/2_2.py
-[18]: https://github.com/viktoriashandybina/prog7/blob/main/ISR/2_3.py
-[9]: 
-[10]: 
-
-*****
-
 ## Вариативные задания
 
 [ВСР №1.2][11] <br>
@@ -54,3 +33,25 @@
 [12]: https://github.com/viktoriashandybina/prog7/blob/main/VSR/2_1.py
 [13]: 
 [14]: 
+
+*****
+
+## Инвариантные задания
+
+[ИСР №1.1][7] <br>
+[ИСР №1.2][16] <br> 
+[ИСР №2.1][8] <br>
+[ИСР №2.2][17] <br>
+[ИСР №2.3][18] <br>
+[ИСР №3.1][9] <br>
+[ИСР №3.2][19] <br>
+[ИСР №4][10] <br>
+
+
+[7]: https://github.com/viktoriashandybina/prog7/blob/main/ISR/1.py
+[16]: https://github.com/viktoriashandybina/prog7/blob/main/ISR/1_2.py
+[8]: https://github.com/viktoriashandybina/prog7/blob/main/ISR/2_1.py
+[17]: https://github.com/viktoriashandybina/prog7/blob/main/ISR/2_2.py
+[18]: https://github.com/viktoriashandybina/prog7/blob/main/ISR/2_3.py
+[9]: 
+[10]: 
