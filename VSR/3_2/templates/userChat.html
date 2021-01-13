@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Tornado Chat</title>
+    <link rel="stylesheet" href="/static/lib/bootstrap/css/bootstrap.min.css" />
+    <link
+      rel="stylesheet"
+      href="/static/lib/bootstrap/css/bootstrap-responsive.min.css"
+    />
+    <link rel="stylesheet" href="/static/css/style.css" />
+
+    <script src="/static/js/jquery-1.9.1.min.js"></script>
+    <script src="/static/js/underscore.js"></script>
+    <script src="/static/js/backbone.js"></script>
+    <script src="/static/js/backbone.localStorage.js"></script>
+    <script src="/static/lib/bootstrap/js/bootstrap.min.js"></script>
+    <script src="/static/js/userChat.js" defer></script>
+  </head>
+  <body>
+    <div id="backbone-chat" class="container">
+      <div class="row">
+        <div class="span8">
+          <h3>Торнадо чат с пользователем {{ interlocutor }}</h3>
+          <div id="chat-messages" class="chat-messages well">
+            {% for message in messages %}
+            <div class="message">
+              <address>{{ message['user'] }}</address>
+              <span>{{ message['text'] }}</span>
+            </div>
+            {% end %}
+          </div>
+          <form
+            name="chat-form form-inline"
+            id="chat-form"
+            action="."
+            method="get"
+          >
+            <div class="input-prepend">
+              <div class="add-on">
+                <i class="icon-user"></i>
+              </div>
+              <input
+                disabled
+                type="text"
+                name="user"
+                id="id_user"
+                value="{{ username }}"
+              />
+            </div>
+            <div class="input-prepend input-append">
+              <div class="add-on">
+                <i class="icon-envelope"></i>
+              </div>
+              <input
+                autofocus
+                class="input-large"
+                type="text"
+                name="text"
+                id="id_text"
+                placeholder="Введите сообщение..."
+                autocomplete="off"
+              />
+              <button class="btn btn-primary" type="submit">Отправить</button>
+            </div>
+          </form>
+          <form action="/" method="GET">
+            <button class="btn btn-success" type="submit">В общий чат</button>
+          </form>
+          <form action="/logout" method="POST">
+            <button class="btn btn-danger" type="submit">Выйти</button>
+          </form>
+        </div>
+      </div>
+    </div>
+
+    <!-- Templates -->
+    <script type="text/template" id="message-template">
+      <address><%- user %></address><span><%- text %></span>
+    </script>
+    <!-- /Templates -->
+  </body>
+</html>
