@@ -15,7 +15,7 @@
 [Лабораторная работа №4. Скриншоты][23] <br>
 [Лабораторная работа №5][5] <br>
 [Лабораторная работа №6][6] <br>
-[Лабораторная работа №6. Скриншоты][24] <>
+[Лабораторная работа №6. Скриншоты][24] <br>
 
 [1]: https://github.com/viktoriashandybina/prog7/blob/main/LR/1.py
 [2]: https://github.com/viktoriashandybina/prog7/blob/main/LR/2.py
