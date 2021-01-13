@@ -53,5 +53,6 @@
 [8]: https://github.com/viktoriashandybina/prog7/blob/main/ISR/2_1.py
 [17]: https://github.com/viktoriashandybina/prog7/blob/main/ISR/2_2.py
 [18]: https://github.com/viktoriashandybina/prog7/blob/main/ISR/2_3.py
-[9]: https://github.com/viktoriashandybina/prog7/tree/main/ISR/3_2
+[9]: https://github.com/viktoriashandybina/prog7/tree/main/ISR/3_1
+[19]: https://github.com/viktoriashandybina/prog7/tree/main/ISR/3_2
 [10]: https://github.com/viktoriashandybina/prog7/tree/main/ISR/4/blog
