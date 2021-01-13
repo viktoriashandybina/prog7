@@ -30,8 +30,8 @@
 
 [ВСР №1.2][11] <br>
 [ВСР №2.1][12] <br>
-[ВСР №3][13] <br>
-[ВСР №4][14] <br>
+[ВСР №3.2][13] <br>
+[ВСР №4.3][14] <br>
 
 [11]: https://github.com/viktoriashandybina/prog7/blob/main/VSR/1_2.pdf
 [12]: https://github.com/viktoriashandybina/prog7/blob/main/VSR/2_1.py
