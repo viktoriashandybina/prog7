@@ -18,7 +18,7 @@
 [3]: https://github.com/viktoriashandybina/prog7/blob/main/LR/lektor.pdf
 [4]: https://github.com/viktoriashandybina/prog7/tree/main/LR/4
 [5]: https://github.com/viktoriashandybina/prog7/tree/main/LR/templates
-[6]:  
+[6]: https://github.com/viktoriashandybina/prog7/tree/main/LR/6
 
 *****
 
@@ -31,8 +31,8 @@
 
 [11]: https://github.com/viktoriashandybina/prog7/blob/main/VSR/1_2.pdf
 [12]: https://github.com/viktoriashandybina/prog7/blob/main/VSR/2_1.py
-[13]: 
-[14]: 
+[13]: https://github.com/viktoriashandybina/prog7/tree/main/VSR/3_2
+[14]: https://github.com/viktoriashandybina/prog7/tree/main/VSR/4_3
 
 *****
 
@@ -53,5 +53,5 @@
 [8]: https://github.com/viktoriashandybina/prog7/blob/main/ISR/2_1.py
 [17]: https://github.com/viktoriashandybina/prog7/blob/main/ISR/2_2.py
 [18]: https://github.com/viktoriashandybina/prog7/blob/main/ISR/2_3.py
-[9]: 
-[10]: 
+[9]: https://github.com/viktoriashandybina/prog7/tree/main/ISR/3_2
+[10]: https://github.com/viktoriashandybina/prog7/tree/main/ISR/4/blog
