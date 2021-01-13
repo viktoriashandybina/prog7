@@ -12,8 +12,10 @@
 [Лабораторная работа №3. Ссылка на репозиторий][20] <br>
 [Лабораторная работа №3. Ссылка на github.io][21] <br>
 [Лабораторная работа №4][4] <br>
+[Лабораторная работа №4. Скриншоты][23] <br>
 [Лабораторная работа №5][5] <br>
 [Лабораторная работа №6][6] <br>
+[Лабораторная работа №6. Скриншоты][24] <>
 
 [1]: https://github.com/viktoriashandybina/prog7/blob/main/LR/1.py
 [2]: https://github.com/viktoriashandybina/prog7/blob/main/LR/2.py
@@ -21,8 +23,10 @@
 [20]: https://github.com/viktoriashandybina/lektor
 [21]: https://viktoriashandybina.github.io/lektor/
 [4]: https://github.com/viktoriashandybina/prog7/tree/main/LR/4
+[23]: https://github.com/viktoriashandybina/prog7/blob/main/LR/4/Screenshot_1.pdf
 [5]: https://github.com/viktoriashandybina/prog7/tree/main/LR/templates
 [6]: https://github.com/viktoriashandybina/prog7/tree/main/LR/6
+[24]: https://github.com/viktoriashandybina/prog7/blob/main/LR/6/Screenshot_1.pdf
 
 *****
 
