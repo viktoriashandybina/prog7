@@ -36,11 +36,13 @@
 [ВСР №2.1][12] <br>
 [ВСР №3.2][13] <br>
 [ВСР №4.3][14] <br>
+[ВСР №4.3 Скриншоты][24] <br>
 
 [11]: https://github.com/viktoriashandybina/prog7/blob/main/VSR/1_2.pdf
 [12]: https://github.com/viktoriashandybina/prog7/blob/main/VSR/2_1.py
 [13]: https://github.com/viktoriashandybina/prog7/tree/main/VSR/3_2
 [14]: https://github.com/viktoriashandybina/prog7/tree/main/VSR/4_3
+[24]: https://github.com/viktoriashandybina/prog7/blob/main/VSR/4_3/Screenshot_1.pdf
 
 *****
 
@@ -55,6 +57,7 @@
 [ИСР №3.1][9] <br>
 [ИСР №3.2][19] <br>
 [ИСР №4][10] <br>
+[ИСР №4 Скриншоты][25] <br>
 
 
 [7]: https://github.com/viktoriashandybina/prog7/blob/main/ISR/1.py
@@ -66,3 +69,4 @@
 [9]: https://github.com/viktoriashandybina/prog7/tree/main/ISR/3_1
 [19]: https://github.com/viktoriashandybina/prog7/tree/main/ISR/3_2
 [10]: https://github.com/viktoriashandybina/prog7/tree/main/ISR/4/blog
+[25]: https://github.com/viktoriashandybina/prog7/blob/main/ISR/4/blog/Screenshot_1.pdf
